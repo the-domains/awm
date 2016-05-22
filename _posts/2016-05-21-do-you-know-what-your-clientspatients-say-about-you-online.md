@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Do you know what your clients/patients say about you online? Are you responding to them when they post a review?
-datePublished: '2016-05-21T23:54:04.056Z'
-dateModified: '2016-05-21T23:53:44.265Z'
+datePublished: '2016-05-22T00:35:48.611Z'
+dateModified: '2016-05-22T00:12:33.331Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-05-21-do-you-know-what-your-clientspatients-say-about-you-online.md
+starred: true
 url: do-you-know-what-your-clientspatients-say-about-you-online/index.html
 _type: Article
 
