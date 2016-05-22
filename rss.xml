@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AWM]]></title>
         <description><![CDATA[AWM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/awm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 23:54:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 00:35:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/awm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Do you know what your clients/patients say about you online? Are you responding to them when they post a review?</p>]]></description>
-            <link>undefineddo-you-know-what-your-clientspatients-say-about-you-online/index.html</link>
+            <link>https://thegrid.ai/awm/do-you-know-what-your-clientspatients-say-about-you-online/index.html</link>
             <guid isPermaLink="false">8d050614-1f11-4d1c-8415-fa9337a7b57b</guid>
-            <pubDate>Sat, 21 May 2016 23:54:04 GMT</pubDate>
+            <pubDate>Sun, 22 May 2016 00:35:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
